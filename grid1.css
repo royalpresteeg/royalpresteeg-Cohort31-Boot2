@@ -1,0 +1,36 @@
+.container{
+
+    padding: 20px;
+    background-color: grey;
+    
+    }
+    
+    .col-sm-4{
+    
+    border: 10px solid grey;
+    
+    }
+    
+    
+    .col-12{
+    
+        margin-top: 10px;
+    
+    }
+    
+    .col{
+    
+    padding: 10px;
+    
+    }
+
+
+
+    
+        
+        .text-center{
+        
+        padding-top: 40px;
+        
+        }
+        
